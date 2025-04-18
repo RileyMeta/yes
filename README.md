@@ -3,5 +3,5 @@ A recreation of the GNU Core Util "yes": Repeatedly output a line with all speci
 
 # To Build:
 ```sh
-gcc yay.c -o yay
+gcc yes.c -o yes
 ```
